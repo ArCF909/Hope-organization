@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #9dabd7;
+}
+body{ 
+  text-align: center;
+
+}
+div {
+  border:solid;
+color:#f9f3e2;
+}
+
+nav{
+  background-color: #7777b6;
+}
+nav a{
+  margin-left: 20px;
+  color: #d2b9b6;
+ 
+}
+nav a:hover{
+  background-color: #6fbbe2;
+}
+h1 {
+  color:#000000
+}
+h2{
+  color:#ffffff;
+  background-color: #7e8cc4;
+}
+img{
+  width: 500px;
+  height: 300px;
+}
+.parallax {
+  background-image: url("https://i.pinimg.com/564x/a1/c3/61/a1c361d4f1e9a20bc5e70bcb3ea178af.jpg");
+  min-height: 300px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:center;
+  text-decoration-color: black;
+}
+
